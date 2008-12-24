@@ -9,3 +9,9 @@ This will give the code in Browse Source as well as in monospace blocks with cod
 
 Many thanks to Justin Palmer and his VibrantInk color scheme.
 
+
+Install
+-------
+
+Simply replace code.css in trac with the one here.
+
